@@ -1,0 +1,10 @@
+.container {
+  max-width: 960px;
+}
+
+.bg-body-tertiary {
+ background-image: url("https://png.pngtree.com/background/20210716/original/pngtree-blue-light-effect-fragmentation-glass-effect-picture-image_1347543.jpg");
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+}
